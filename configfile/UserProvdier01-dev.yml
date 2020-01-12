@@ -1,4 +1,4 @@
-version: UserProvider001:7.7.7V
+version: UserProvider001:7.7.7V-update
 server:
   port: 8001
 spring:
