@@ -13,7 +13,3 @@ spring:
     show-sql: true
   application:
     name: UserProvider
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8888/eureka
