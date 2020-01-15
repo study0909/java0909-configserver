@@ -1,3 +1,4 @@
+version: UserProvider002:7.7.7V-up
 server:
   port: 8002
 spring:
